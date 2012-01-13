@@ -1,6 +1,7 @@
 /**
  * Main class of application.
  *
+ *
  * @author Gevorg Harutyunyan.
  */
 public class App {
