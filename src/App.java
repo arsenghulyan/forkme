@@ -20,7 +20,7 @@ public class App {
      * @return string containing mission message.
      */
     public static String getMission() {
-        return "Welcome to project with known mission!";
+        return "Welcome to another project with known mission!";
     }
 
     /**
