@@ -9,7 +9,7 @@ public class App {
      */
     public static String[] whoForkedThisProject = {
             "Gevorg Harutyunyan",
-            "Unknown Forker"
+            "Unknown Forker GGG"
     };
 
     /**
